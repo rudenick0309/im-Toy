@@ -12,9 +12,21 @@ var makeHashTable = function(){
   var storage = [];
   var storageLimit = 4;
   var size = 0;
-  result.insert = function(/*...*/ 
+  result.insert = function(v, storageLimit
 ){
     // TODO: implement `insert`
+    if (storage.length + 1 >= (storageLimit * 0.75)) {
+      result.resize(storageLimit * 2);
+    }
+
+    let hash = getIndexBelowMaxForKey(v, storageLimit);
+
+    if (result[hash]) {
+      result[hash].push(v);
+    } else {
+      result[hash] = [v];
+    }
+    return v;
   };
 
   result.retrieve = function(/*...*/ 
