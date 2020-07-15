@@ -45,4 +45,5 @@ var hasCycle = function(linkedList){
     if (a === b) return true;
   }
   return false;
+
 };
