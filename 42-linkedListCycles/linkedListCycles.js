@@ -37,4 +37,12 @@ var Node = function(value){
 
 var hasCycle = function(linkedList){
   // TODO: implement me!
+  let a = linkedList;
+  let b = linkedList;
+  while(b && b.next) {
+    a = a.next;
+    b = b.next.next;
+    if (a === b) return true;
+  }
+  return false;
 };

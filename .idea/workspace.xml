@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91f957a1-5585-4582-ae94-c5d5cfe16fa7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/42-linkedListCycles/linkedListCycles.js" beforeDir="false" afterPath="$PROJECT_DIR$/42-linkedListCycles/linkedListCycles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dyFOXZb3Ei3a2VQGZWCu89j8Sl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Mocha.mixEvents.#trigger.should be a function">
+    <configuration name="mixEvents.#trigger.should be a function" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/40-eventingLibrary/eventingLibrary.test.js</test-file>
+      <test-names>
+        <name value="mixEvents" />
+        <name value="#trigger" />
+        <name value="should be a function" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="mixEvents.#trigger.should exist" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/40-eventingLibrary/eventingLibrary.test.js</test-file>
+      <test-names>
+        <name value="mixEvents" />
+        <name value="#trigger" />
+        <name value="should exist" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.mixEvents.#trigger.should be a function" />
+        <item itemvalue="Mocha.mixEvents.#trigger.should exist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f957a1-5585-4582-ae94-c5d5cfe16fa7" name="Default Changelist" comment="" />
+      <created>1593389394045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593389394045</updated>
+      <workItem from="1593389395522" duration="3022000" />
+      <workItem from="1593431545348" duration="17000" />
+      <workItem from="1593475197068" duration="360000" />
+      <workItem from="1593503344393" duration="689000" />
+      <workItem from="1593554913780" duration="266000" />
+      <workItem from="1593557064152" duration="116000" />
+      <workItem from="1593575660765" duration="773000" />
+      <workItem from="1593648064768" duration="4221000" />
+      <workItem from="1593734228622" duration="2960000" />
+      <workItem from="1593740723333" duration="16000" />
+      <workItem from="1594598395154" duration="1266000" />
+      <workItem from="1594685150880" duration="1560000" />
+      <workItem from="1594773237347" duration="1348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1594688876968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594688876968" />
+    <state x="2469" y="167" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1593431560205" />
+    <state width="1899" height="159" key="GridCell.Tab.0.bottom" timestamp="1594599663092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594599663092" />
+    <state width="1899" height="159" key="GridCell.Tab.0.center" timestamp="1594599663091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="159" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594599663091" />
+    <state width="1899" height="159" key="GridCell.Tab.0.left" timestamp="1594599663091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="159" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594599663091" />
+    <state width="1899" height="159" key="GridCell.Tab.0.right" timestamp="1594599663092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="159" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594599663092" />
+  </component>
+</project>
