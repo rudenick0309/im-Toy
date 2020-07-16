@@ -6,7 +6,7 @@
   "scripts": {
     "submit": "node .travis/submit.js",
     "test": "node .travis/getdailyscript.js | bash",
-    "toy42" : "mocha 42-linkedListCycles"
+    "toy43" : "mocha 43-threeFiveMultiples"
   },
   "author": "codestates",
   "devDependencies": {
