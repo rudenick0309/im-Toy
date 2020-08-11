@@ -29,12 +29,13 @@ var makeHashTable = function(){
     return v;
   };
 
-  result.retrieve = function(/*...*/ 
+  result.retrieve = function(/*...*/
 ){
     // TODO: implement `retrieve`
+    //
   };
 
-  result.remove = function(/*...*/ 
+  result.remove = function(/*...*/
 ){
     // TODO: implement `remove`
   };
