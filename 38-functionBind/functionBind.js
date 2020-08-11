@@ -54,6 +54,7 @@ var bind = function() {
 
 Function.prototype.bind = function() {
   // TODO: Your code here
+  //
   return function() {
     // TODO: Your code here, too
   };
