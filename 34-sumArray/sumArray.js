@@ -10,4 +10,7 @@
  */
 
 // Solved in O(n) time with O(1) memory
-var sumArray = function(array) {};
+var sumArray = function(array) {
+
+  //
+};
