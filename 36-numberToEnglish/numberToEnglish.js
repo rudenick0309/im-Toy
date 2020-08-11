@@ -55,4 +55,5 @@ var numbersToPlace = {
 
 Number.prototype.toEnglish = function () {
   // return my value as english words
+  //
 };
