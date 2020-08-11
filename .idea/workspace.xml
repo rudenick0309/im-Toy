@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f957a1-5585-4582-ae94-c5d5cfe16fa7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/42-linkedListCycles/linkedListCycles.js" beforeDir="false" afterPath="$PROJECT_DIR$/42-linkedListCycles/linkedListCycles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/35-treeMap/treeMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/35-treeMap/treeMap.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
