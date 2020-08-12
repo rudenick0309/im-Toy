@@ -69,6 +69,7 @@ Tree.prototype.isDescendant = function(child){
       if(this.children[i].isDescendant(child)){
         // `child` is descendant of this tree
         return true;
+        //
       }
     }
     return false;
