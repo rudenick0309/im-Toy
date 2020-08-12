@@ -1,6 +1,6 @@
 /*
 골드바흐의 추측(Goldbach's conjecture)은 오래전부터 알려진 정수론의 미해결 문제로,
-2보다 큰 모든 짝수는 두 개의 소수(Prime number)의 합으로 표시할 수 있다는 것이다. 
+2보다 큰 모든 짝수는 두 개의 소수(Prime number)의 합으로 표시할 수 있다는 것이다.
 이때 하나의 소수를 두 번 사용하는 것은 허용한다.
 
 Reference
@@ -21,4 +21,5 @@ function goldbachsConjecture(num) {
 
 function primeNumber(num) {
   // 인자로 전달되는 숫자가 소수인지 여부를 확인하는 코드를 먼저 작성하면 문제를 푸는 데 도움이 됩니다
+  //
 }
