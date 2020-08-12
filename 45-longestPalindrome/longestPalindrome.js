@@ -7,4 +7,5 @@
 */
 
 var longestPalindrome = function (string) {
+  //
 };
