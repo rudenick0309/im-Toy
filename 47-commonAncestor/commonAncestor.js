@@ -26,6 +26,7 @@ Tree.prototype.addChild = function(child){
   }else {
     throw new Error("That child is already a child of this tree");
   }
+  //
   return this;
 };
 
