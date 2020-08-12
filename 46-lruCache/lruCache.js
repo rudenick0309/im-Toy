@@ -38,6 +38,8 @@ var LRUCacheItem = function (val, key) {
 
 LRUCache.prototype.size = function () {
   //
+
+  //
 };
 
 LRUCache.prototype.get = function (key) {
